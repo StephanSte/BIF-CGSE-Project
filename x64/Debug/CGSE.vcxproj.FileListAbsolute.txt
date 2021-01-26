@@ -1,0 +1,2 @@
+C:\Users\Stephan\Desktop\CGSE\x64\Debug\CGSE.exe
+C:\Users\Stephan\Desktop\CGSE\x64\Debug\CGSE.pdb

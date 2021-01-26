@@ -1,0 +1,12 @@
+﻿  main.cpp
+main.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "_glfwInit" in Funktion "_main".
+main.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "_glfwTerminate" in Funktion "_main".
+main.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "_glfwWindowHint" in Funktion "_main".
+main.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "_glfwCreateWindow" in Funktion "_main".
+main.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "_glfwWindowShouldClose" in Funktion "_main".
+main.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "_glfwSetFramebufferSizeCallback" in Funktion "_main".
+main.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "_glfwPollEvents" in Funktion "_main".
+main.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "_glfwSwapBuffers" in Funktion "_main".
+main.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "_glfwGetProcAddress" in Funktion "_main".
+C:\Users\Stephan\Desktop\CGSE\\Linking\GLFW\lib\glfw3.lib : warning LNK4272: Bibliothekcomputertyp "x64" steht in Konflikt mit dem Zielcomputertyp "x86"
+C:\Users\Stephan\Desktop\CGSE\Debug\CGSE.exe : fatal error LNK1120: 9 nicht aufgelöste Externe

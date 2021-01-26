@@ -1,0 +1,16 @@
+﻿  main.cpp
+C:\Users\Stephan\Desktop\CGSE\main.cpp(127,28): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\Stephan\Desktop\CGSE\main.cpp(213,19): warning C4552: "*": Ergebnis des Ausdrucks nicht verwendet.
+C:\Users\Stephan\Desktop\CGSE\main.cpp(241,11): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\Stephan\Desktop\CGSE\main.cpp(242,11): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\Stephan\Desktop\CGSE\main.cpp(246,16): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\Stephan\Desktop\CGSE\main.cpp(247,16): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\Stephan\Desktop\CGSE\main.cpp(249,10): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\Stephan\Desktop\CGSE\main.cpp(250,10): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\Stephan\Desktop\CGSE\main.cpp(259,28): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  Code wird generiert.
+  2 of 811 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    8 functions had inline decision re-evaluated but remain unchanged
+  Codegenerierung ist abgeschlossen.
+  CGSE.vcxproj -> C:\Users\Stephan\Desktop\CGSE\x64\Release\CGSE.exe
