@@ -161,17 +161,17 @@ int main() {
         float length = glm::length(camera.Position);
 
         //models[0].Draw(ourShader);
-
+        glad_glDrawArrays(1, 1, 1);
         //Todo: switchcase machen
 
-        if (length < 1.5f) {
+        if (length < 11.5f) {
             models[0].Draw(ourShader);
         }
-        else if (length > 1.5f /*&& length < 5.0f*/) {
+        else if (length > 11.5f && length < 51.0f) {
             models[1].Draw(ourShader);
         }
-        else if (length > 5.0f) {
-            //models[2].Draw(ourShader);
+        else if (length > 51.0f) {
+            models[2].Draw(ourShader);
         }
 
         // a lamp object is weird when we only have a directional light, don't render the light object
@@ -210,7 +210,7 @@ void processInput(GLFWwindow* window) {
 		glfwSetWindowShouldClose(window, true);
 
     if (glfwGetKey(window, GLFW_KEY_LEFT_SHIFT) == GLFW_PRESS)
-        deltaTime * 2;
+        deltaTime *= 2;
 
 	if (glfwGetKey(window, GLFW_KEY_W) == GLFW_PRESS)
 		camera.ProcessKeyboard(FORWARD, deltaTime);
@@ -224,6 +224,8 @@ void processInput(GLFWwindow* window) {
 	// toggle transparency
 	if (glfwGetKey(window, GLFW_KEY_T) == GLFW_PRESS && !buttonPressed)
 		buttonPressed = true;
+
+    //: means else 
 	if (glfwGetKey(window, GLFW_KEY_T) == GLFW_RELEASE && buttonPressed) {
 		alpha = alpha == 1.0f ? 0.3f : 1.0f;
 		buttonPressed = false;

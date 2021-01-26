@@ -1,10 +1,10 @@
 ﻿  main.cpp
-C:\Users\Stephan\Desktop\CGSE\main.cpp(101,28): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
-C:\Users\Stephan\Desktop\CGSE\main.cpp(212,17): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
-C:\Users\Stephan\Desktop\CGSE\main.cpp(213,17): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
-C:\Users\Stephan\Desktop\CGSE\main.cpp(217,19): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
-C:\Users\Stephan\Desktop\CGSE\main.cpp(218,19): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
-C:\Users\Stephan\Desktop\CGSE\main.cpp(220,13): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
-C:\Users\Stephan\Desktop\CGSE\main.cpp(221,13): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
-C:\Users\Stephan\Desktop\CGSE\main.cpp(230,31): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
-  CGSE.vcxproj -> C:\Users\Stephan\Desktop\CGSE\x64\Debug\CGSE.exe
+C:\Users\Stephan\Desktop\CGSE\BIF-CGSE-Project\main.cpp(127,28): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\Stephan\Desktop\CGSE\BIF-CGSE-Project\main.cpp(241,11): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\Stephan\Desktop\CGSE\BIF-CGSE-Project\main.cpp(242,11): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\Stephan\Desktop\CGSE\BIF-CGSE-Project\main.cpp(246,16): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\Stephan\Desktop\CGSE\BIF-CGSE-Project\main.cpp(247,16): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\Stephan\Desktop\CGSE\BIF-CGSE-Project\main.cpp(249,10): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\Stephan\Desktop\CGSE\BIF-CGSE-Project\main.cpp(250,10): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\Stephan\Desktop\CGSE\BIF-CGSE-Project\main.cpp(259,28): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  CGSE.vcxproj -> C:\Users\Stephan\Desktop\CGSE\BIF-CGSE-Project\x64\Debug\CGSE.exe
